@@ -1,5 +1,5 @@
 import streamlit as st
-import PyAutoGui as gui
+import PyAutoGUI as gui
 
 st.write('This is a test app')
 
